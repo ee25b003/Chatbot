@@ -1,0 +1,9 @@
+Flask
+twilio
+python-dotenv
+langchain-groq
+langchain-core
+langchain-community
+groq
+gunicorn
+requests
